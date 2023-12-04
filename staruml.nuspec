@@ -18,10 +18,10 @@
 StarUML is a commercial software, although there is no time limit for evaluation, you should buy licenses [here](http://staruml.io/buy).</description>
     <summary>a sophisticated software modeler</summary>
     <releaseNotes>[Release Notes](http://staruml.io/download)</releaseNotes>
-    <copyright>2014-2022 MKLab</copyright>
+    <copyright>2014-2023 MKLab</copyright>
     <tags>staruml uml modeler erd</tags>
     <projectSourceUrl>http://staruml.io/faq</projectSourceUrl>
-    <packageSourceUrl>https://github.com/awatchanaman/StarUML-5.0.2</packageSourceUrl>
+    <packageSourceUrl>https://github.com/awatchanaman/StarUML-6.0.1</packageSourceUrl>
     <docsUrl>https://docs.staruml.io/</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/staruml</mailingListUrl>
     <bugTrackerUrl>http://staruml.uservoice.com/forums/245359-feature-request</bugTrackerUrl>
